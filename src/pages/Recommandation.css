@@ -1,0 +1,26 @@
+.recommnadation {
+    width: 1728px;
+    height: 1117px;
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0.37) 100%);
+}
+
+.Heading {
+    width: 169px;
+    height: 66px;
+    font-family: Single Day;
+    font-size: 47.33px;
+    font-weight: 400;
+    line-height: 66.12px;
+    color: #72DB73;
+}
+
+.Subheading {
+    width: 560px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 30.42px;
+    font-weight: 600;
+    line-height: 42.5px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
